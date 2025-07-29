@@ -1,0 +1,9 @@
+DAO\LivroDAO.class
+DAO\ExemplarDAO.class
+DAO\UsuarioDAO.class
+modelo\Emprestimo.class
+Main.class
+modelo\Exemplar.class
+modelo\Livro.class
+DAO\EmprestimoDAO.class
+modelo\Usuario.class
